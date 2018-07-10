@@ -1,0 +1,26 @@
+body {
+  background: url('/books_bg.jpg') top left repeat;
+  padding: 0 0 25px;
+}
+
+header h1 {
+  text-align: center;
+  color: #FFF;
+  font-size: 86px;
+  text-shadow: 4px 2px #000;
+}
+
+.book {
+  border: solid 3px #DDD;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.read {
+  background-color: #DBF3D7;
+}
+
+.unread {
+  background-color: #D5EDF9;
+}
